@@ -28,7 +28,7 @@
 
 # Tech Stack and Tools
 
-<table>
+<table style="margin-top: -25px; margin-bottom: 50px">
 <!-- Each table has a maximum of 8 items (hence 12.5% column width). Adjust colspan to match number of items. -->
 
 <!-- Languages and Databases -->
@@ -183,6 +183,66 @@
     <td align="center" width="12.5%">
       <img src="assets/icons/windows11-original.svg" width="50" height="50" alt="Windows" />
       <br><strong>Windows</strong>
+    </td>
+  </tr>
+</table>
+
+# Core Methodologies and Modelling Techniques
+
+<table style="margin-top: -25px; margin-bottom: 50px">
+  <tr>
+    <th align="left" width="25%">
+      <h3>Domain</h3>
+    </th>
+    <th align="left" width="40%">
+      <h3>Core Capabilities</h3>
+    </th>
+    <th align="left" width="35%">
+      <h3>Key Models &amp; Tech</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>💭 Natural Language Processing</strong>
+    </td>
+    <td align="left">
+      LLMs, topic modelling, emotion classification, text visualization
+    </td>
+    <td align="left">
+      Quantised Microsoft Phi-4-mini, BERT, BERTopic, LDA
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>🔮 Predictive Analytics</strong>
+    </td>
+    <td align="left">
+      Time-series forecasting, regression, deep learning
+    </td>
+    <td align="left">
+      XGBoost, LightGBM, LSTMs, ARIMA, MLPs, RNNs, Logistic and Multiple Linear Regression
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>🫂 Customer Analytics</strong>
+    </td>
+    <td align="left">
+      Persona derivation for targeted marketing, clustering, anomaly detection
+    </td>
+    <td align="left">
+      K-Means, Isolation Forest, OCSVM, IQR
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>⚙️ Data Engineering</strong>
+    </td>
+    <td align="left">
+      Semantic graphs, ETL pipelines, feature aggregation
+    </td>
+    <td align="left">
+      Ontologies (<code>.ttl</code>), taxonomies
     </td>
   </tr>
 </table>
