@@ -69,7 +69,7 @@
       <strong>📈 Time Series Forecasting</strong>
     </td>
     <td align="left">
-      <strong>Nielsen Book Sales Revenue Forecasting</strong><br>
+      <a href="https://github.com/harveywhelan/time-series-procurement-optimisation" target="_blank" rel="noopener noreferrer" title="Click to go to the GitHub Repo for this project" aria-label="Clickable link for the GitHub repo."><strong>Nielsen Book Sales Revenue Forecasting</strong></a><br>
       Developed a weekly sales forecasting pipeline using Nielsen BookScan data for inventory optimisation. Resolved COVID-19 anomalies via STL imputation and Box-Cox/Log transformations, benchmarking Auto-ARIMA, XGBoost, and LSTMs against sequential and parallel hybrid models.
     </td>
     <td align="left">
@@ -81,7 +81,7 @@
       <strong>🚨 Risk & Rare Event Detection</strong>
     </td>
     <td align="left">
-      <strong>Maritime Anomaly Detection</strong><br>
+      <a href="https://github.com/harveywhelan/maritime-anomaly-detection" target="_blank" rel="noopener noreferrer" title="Click to go to the GitHub Repo for this project" aria-label="Clickable link for the GitHub repo."><strong>Maritime Anomaly Detection</strong></a><br>
       Engineered an anomaly detection pipeline for telemetry data, akin to financial anti-fraud systems. Benchmarked unsupervised OCSVM and Isolation Forests against baseline IQR thresholds. Selected Isolation Forests for optimal efficiency and explainability.
     </td>
     <td align="left">
@@ -93,7 +93,7 @@
       <strong>🫂 Behavioral Clustering</strong>
     </td>
     <td align="left">
-      <strong>E-Commerce Customer Profiling</strong><br>
+      <a href="https://github.com/harveywhelan/ecommerce-customer-segmentation" target="_blank" rel="noopener noreferrer" title="Click to go to the GitHub Repo for this project" aria-label="Clickable link for the GitHub repo."><strong>E-Commerce Customer Profiling</strong></a><br>
       Engineered a K-Means customer segmentation pipeline using Recency, Frequency, and CLV features to derive five buyer personas for targeted marketing. Optimized clusters via Silhouette Scores and Ward dendrograms, validating separability with PCA and t-SNE.
     </td>
     <td align="left">
@@ -275,4 +275,4 @@
       <br><strong>LinkedIn</strong>
     </td>
   </tr>
-</table> 
+</table>
