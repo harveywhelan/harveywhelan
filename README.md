@@ -262,3 +262,17 @@
     </td>
   </tr>
 </table>
+
+# Let's Connect!
+
+<table>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/harvey-whelan/" target="_blank" rel="noopener noreferrer" title="Click to go to my LinkedIn page" aria-label="Clickable link to my LinkedIn page.">
+        <img src="assets/icons/linkedin-original.svg" width="50" height="50" alt="LinkedIn" />
+      </a>
+      <br><strong>LinkedIn</strong>
+    </td>
+  </tr>
+</table> 
