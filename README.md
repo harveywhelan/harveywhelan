@@ -11,14 +11,14 @@
 </h1>
 
 <style>
-  p, li, td, th {font-size: 18px; line-height: 1.6}
+  p, li, td, th {font-size: 16px; line-height: 1.6}
 </style>
 
 # About Me
 - **Current Role:** Data Scientist at the National Physical Laboratory's (NPL) Informatics Group
 - **Location:** London and Glasgow
 - **Education:**
-  - University of Cambridge | Data Science, Machine Learning, and AI | PACE Postgraduate Certificate
+  - University of Cambridge | Data Science, Machine Learning, and AI | Postgraduate Study (Level 7)
   - University of Bath | Physics and Chemistry | BSc (Hons) First-class honours
 - **Interests & Hobbies:**
   - **🏋️‍♂️ Health:** Gym (powerlifting & bodybuilding), hiking, and nutrition
@@ -26,9 +26,85 @@
   - **🛫 Aviation:** Plane spotting and systematic failure documentaries
   - **🍽️ Culinary:** Cooking and baking
 
-# Tech Stack and Tools
+# Key Projects
 
 <table style="margin-top: -25px; margin-bottom: 50px">
+  <tr>
+    <th align="left" width="25%">
+      <h3>Core Competency</h3>
+    </th>
+    <th align="left" width="50%">
+      <h3>Project Description</h3>
+    </th>
+    <th align="left" width="25%">
+      <h3>Tech Stack</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>📰 LLMs and NLP</strong>
+    </td>
+    <td align="left">
+      <strong>Bank of England IFRS9 ECL Forecasting</strong> <em>[In Progress]</em><br>
+      Bank of England collaboration parsing Basel Pillar 3 PDFs via LLMs to derive an anxiety index with FinBERT. Integrated with macro drivers (Base Rate, CPI, FTSE 100) in a multivariate time series pipeline to forecast IFRS 9 Expected Credit Loss.
+    </td>
+    <td align="left">
+      LLMs, structured evidence stores, FinBERT, XGBoost, Vector Autoregression, SHAP
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>🏦 Customer Churn Modelling</strong>
+    </td>
+    <td align="left">
+      <strong>Predictive Customer Credit Risk Modelling</strong><br>
+      Engineered an end-to-end loan default prediction pipeline, querying complex hierarchical relational databases with SQL to capture credit behaviour signals. Filtered uninformative variables using random bar (probe feature) selection and used SHAP for model explainability.
+    </td>
+    <td align="left">
+      DuckDB, SQL, LightGBM, MLP NNs, SHAP
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>📈 Time Series Forecasting</strong>
+    </td>
+    <td align="left">
+      <strong>Nielsen Book Sales Revenue Forecasting</strong><br>
+      Developed a weekly sales forecasting pipeline using Nielsen BookScan data for inventory optimisation. Resolved COVID-19 anomalies via STL imputation and Box-Cox/Log transformations, benchmarking Auto-ARIMA, XGBoost, and LSTMs against sequential and parallel hybrid models.
+    </td>
+    <td align="left">
+      Auto-ARIMA, XGBoost, LSTMs, STL Decomposition, Anomalous Period Imputation, ACF, PACF, Residual Prediction/Hybrid Models
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>🚨 Risk & Rare Event Detection</strong>
+    </td>
+    <td align="left">
+      <strong>Maritime Anomaly Detection</strong><br>
+      Engineered an anomaly detection pipeline for telemetry data, akin to financial anti-fraud systems. Benchmarked unsupervised OCSVM and Isolation Forests against baseline IQR thresholds. Selected Isolation Forests for optimal efficiency and explainability.
+    </td>
+    <td align="left">
+      Isolation Forest, OCSVM, IQR,  PCA
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>🫂 Behavioral Clustering</strong>
+    </td>
+    <td align="left">
+      <strong>E-Commerce Customer Profiling</strong><br>
+      Engineered a K-Means customer segmentation pipeline using Recency, Frequency, and CLV features to derive five buyer personas for targeted marketing. Optimized clusters via Silhouette Scores and Ward dendrograms, validating separability with PCA and t-SNE.
+    </td>
+    <td align="left">
+      K-Means, Silhouette Score, Elbow Method, PCA, t-SNE, Hierarchical Clustering, Dendrograms
+    </td>
+  </tr>
+</table>
+
+# Tech Stack and Tools
+
+<table style="margin-top: -25px; margin-bottom: 25px">
 <!-- Each table has a maximum of 8 items (hence 12.5% column width). Adjust colspan to match number of items. -->
 
 <!-- Languages and Databases -->
@@ -76,7 +152,7 @@
 
   <!-- Machine and Deep Learning -->
   <tr>
-    <th colspan="8" align="left">
+    <th colspan="4" align="left">
       <h3>🧠 Machine and Deep Learning</h3>
     </th>
   </tr>
@@ -171,7 +247,7 @@
 
 <!-- Operating Systems -->
   <tr>
-    <th colspan="8" align="left">
+    <th colspan="2" align="left">
       <h3>🖥️ Operating Systems</h3>
     </th>
   </tr>
@@ -183,66 +259,6 @@
     <td align="center" width="12.5%">
       <img src="assets/icons/windows11-original.svg" width="50" height="50" alt="Windows" />
       <br><strong>Windows</strong>
-    </td>
-  </tr>
-</table>
-
-# Core Methodologies and Modelling Techniques
-
-<table style="margin-top: -25px; margin-bottom: 50px">
-  <tr>
-    <th align="left" width="25%">
-      <h3>Domain</h3>
-    </th>
-    <th align="left" width="40%">
-      <h3>Core Capabilities</h3>
-    </th>
-    <th align="left" width="35%">
-      <h3>Key Models &amp; Tech</h3>
-    </th>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>💭 Natural Language Processing</strong>
-    </td>
-    <td align="left">
-      LLMs, topic modelling, emotion classification, text visualization
-    </td>
-    <td align="left">
-      Quantised Microsoft Phi-4-mini, BERT, BERTopic, LDA
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>🔮 Predictive Analytics</strong>
-    </td>
-    <td align="left">
-      Time-series forecasting, regression, deep learning
-    </td>
-    <td align="left">
-      XGBoost, LightGBM, LSTMs, ARIMA, MLPs, RNNs, Logistic and Multiple Linear Regression
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>🫂 Customer Analytics</strong>
-    </td>
-    <td align="left">
-      Persona derivation for targeted marketing, clustering, anomaly detection
-    </td>
-    <td align="left">
-      K-Means, Isolation Forest, OCSVM, IQR
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>⚙️ Data Engineering</strong>
-    </td>
-    <td align="left">
-      Semantic graphs, ETL pipelines, feature aggregation
-    </td>
-    <td align="left">
-      Ontologies (<code>.ttl</code>), taxonomies
     </td>
   </tr>
 </table>
