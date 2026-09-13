@@ -11,20 +11,20 @@
 </h1>
 
 # About Me
-- <big>**Current Role:** Data Scientist at the National Physical Laboratory's (NPL) Informatics </big>
+- ### **Current Role:** Data Scientist at the National Physical Laboratory's (NPL) Informatics 
 
-- <big>**Location:** London and Glasgow</big>
+- ### **Location:** London and Glasgow
 
-- <big>**Education:**</big>
-  - <big>University of Cambridge | Data Science, Machine Learning, and AI | Postgraduate Study (Level 7)</big>
-  - <big>University of Bath | Physics and Chemistry | BSc (Hons) First-class honours</big>
+- ### **Education:**
+  - ### **University of Cambridge** | Data Science, Machine Learning, and AI | Postgraduate Study (Level 7)
+  -  ### **University of Bath** | Physics and Chemistry | BSc (Hons) First-class honours
 
-- <big>**Interests & Hobbies:**</big>
-  - <big>**🏋️‍♂️ Health:** Gym (powerlifting & bodybuilding), hiking, and nutrition</big>
-  - <big>**📈 Finance:** Personal budgeting and investment strategy</big>
-  - <big>🏍️ Motorbikes:** Sports bike enthusiast enjoying the open road</big>
-  - <big>**🛫 Aviation:** Plane spotting and systematic failure documentaries</big>
-  - <big>🍽️ Culinary:** Cooking, baking, and optimising recipes</big>
+- ### **Interests & Hobbies:**
+  - ### **🏋️‍♂️ Health:** Gym (powerlifting & bodybuilding), hiking, and nutrition
+  - ### **📈 Finance:** Personal budgeting and investment strategy
+  - ### **🏍️ Motorbikes:** Sports bike enthusiast enjoying the open road
+  - ### **🛫 Aviation:** Plane spotting and systematic failure documentaries
+  - ### **🍽️ Culinary:** Cooking, baking, and optimising recipes
 
 # Key Projects
 
