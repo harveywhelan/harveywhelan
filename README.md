@@ -28,7 +28,7 @@
 
 # Key Projects
 
-<table style="margin-top: -25px; margin-bottom: 50px">
+<table>
   <tr>
     <th align="left" width="25%">
       <h3>Core Competency</h3>
@@ -112,11 +112,11 @@
     </th>
   </tr>
   <tr>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/python-original.svg"  height="50" alt="Python" />
       <br><strong>Python</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/postgresql-original.svg"  height="50" alt="PostgreSQL" />
       <br><strong>PostgresSQL</strong>
     </td>
@@ -135,15 +135,15 @@
     </th>
   </tr>
   <tr>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/pandas-original.svg"  height="50" alt="Pandas" />
       <br><strong>Pandas</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/numpy-original.svg"  height="50" alt="NumPy" />
       <br><strong>NumPy</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/matplotlib-original.svg"  height="50" alt="Matplotlib" />
       <br><strong>Matplotlib</strong>
     </td>
@@ -159,19 +159,19 @@
     </th>
   </tr>
   <tr>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/scikitlearn-original.svg"  height="50" alt="Scikit-Learn" />
       <br><strong>Scikit-Learn</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/tensorflow-original.svg"  height="50" alt="TensorFlow" />
       <br><strong>TensorFlow</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/keras-original.svg"  height="50" alt="Keras" />
       <br><strong>Keras</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/hf-logo.svg"  height="50" alt="Hugging Face" />
       <br><strong>Hugging Face</strong>
     </td>
@@ -187,66 +187,66 @@
     </th>
   </tr>
   <tr>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/amazonwebservices-original-wordmark.svg"  height="50" alt="AWS" />
       <br><strong>AWS</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/git-plain.svg"  height="50" alt="Git" />
       <br><strong>Git</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/docker-original.svg"  height="50" alt="Docker" />
       <br><strong>Docker</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/jupyter-original.svg"  height="50" alt="Jupyter" />
       <br><strong>Jupyter</strong>
     </td>    
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/vscode-original.svg"  height="50" alt="VS Code" />
       <br><strong>VS Code</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/anaconda-original.svg"  height="50" alt="Anaconda" />
       <br><strong>Anaconda</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/spyder-original.svg"  height="50" alt="Spyder" />
       <br><strong>Spyder</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/github-original.svg"  height="50" alt="GitHub" />
       <br><strong>GitHub</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/gitlab-original.svg"  height="50" alt="GitLab" />
       <br><strong>GitLab</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/sourcetree.svg"  height="50" alt="SourceTree" />
       <br><strong>SourceTree</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/googlecolab-original.svg"  height="50" alt="Google Colab" />
       <br><strong>Google Colab</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/networkx-original.svg"  height="50" alt="NetworkX" />
       <br><strong>NetworkX</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/protege.png"  height="50" alt="Protégé" />
       <br><strong>Protégé</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/fastapi-original.svg"  height="50" alt="FastAPI" />
       <br><strong>FastAPI</strong>
     </td>
-    <td width="20"></td>
-    <td width="20"></td>
+    <td ></td>
+    <td ></td>
   </tr>
 </table> 
 
@@ -258,11 +258,11 @@
     </th>
   </tr>
   <tr>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/linux-original.svg"  height="50" alt="Linux" />
       <br><strong>Linux</strong>
     </td>
-    <td align="center" width="20">
+    <td align="center" >
       <img src="assets/icons/windows11-original.svg"  height="50" alt="Windows" />
       <br><strong>Windows</strong>
     </td>
