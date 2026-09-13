@@ -10,23 +10,23 @@
   <img src="assets/animated-waving-hand.svg" alt="Animated Waving Hand"  width="50" style="vertical-align: middle;">
 </h1>
 
-# About Me
-- ### **Current Role:** Data Scientist at the National Physical Laboratory's (NPL) Informatics 
+## About Me
+- **Current Role:** Data Scientist at the National Physical Laboratory's (NPL) Informatics 
 
-- ### **Location:** London and Glasgow
+- **Location:** London and Glasgow
 
-- ### **Education:**
-  - ### **University of Cambridge** | Data Science, Machine Learning, and AI | Postgraduate Study (Level 7)
-  -  ### **University of Bath** | Physics and Chemistry | BSc (Hons) First-class honours
+- **Education:**
+  - **University of Cambridge** | Data Science, Machine Learning, and AI | Postgraduate Study (Level 7)
+  - **University of Bath** | Physics and Chemistry | BSc (Hons) First-class honours
 
-- ### **Interests & Hobbies:**
-  - ### **🏋️‍♂️ Health:** Gym (powerlifting & bodybuilding), hiking, and nutrition
-  - ### **📈 Finance:** Personal budgeting and investment strategy
-  - ### **🏍️ Motorbikes:** Sports bike enthusiast enjoying the open road
-  - ### **🛫 Aviation:** Plane spotting and systematic failure documentaries
-  - ### **🍽️ Culinary:** Cooking, baking, and optimising recipes
+- **Interests & Hobbies:**
+  - **🏋️‍♂️ Health:** Gym (powerlifting & bodybuilding), hiking, and nutrition
+  - **📈 Finance:** Personal budgeting and investment strategy
+  - **🏍️ Motorbikes:** Sports bike enthusiast enjoying the open road
+  - **🛫 Aviation:** Plane spotting and systematic failure documentaries
+  - **🍽️ Culinary:** Cooking, baking, and optimising recipes
 
-# Key Projects
+## Key Projects
 
 <table>
   <tr>
@@ -102,13 +102,13 @@
   </tr>
 </table>
 
-# Tech Stack and Tools
+## Tech Stack and Tools
 
 <!-- Languages and Databases -->
 <table>
   <tr>
     <th colspan="3" align="left">
-      <h3>Languages and Databases</h3>
+      <h3>🌐 Languages and Databases</h3>
     </th>
   </tr>
   <tr>
@@ -269,7 +269,7 @@
   </tr>
 </table>
 
-# Let's Connect!
+## Let's Connect!
 
 <table>
 
