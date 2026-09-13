@@ -16,15 +16,19 @@
 
 # About Me
 - **Current Role:** Data Scientist at the National Physical Laboratory's (NPL) Informatics Group
+
 - **Location:** London and Glasgow
+
 - **Education:**
   - University of Cambridge | Data Science, Machine Learning, and AI | Postgraduate Study (Level 7)
   - University of Bath | Physics and Chemistry | BSc (Hons) First-class honours
+
 - **Interests & Hobbies:**
   - **🏋️‍♂️ Health:** Gym (powerlifting & bodybuilding), hiking, and nutrition
   - **📈 Finance:** Personal budgeting and investment strategy
+  - **🏍️ Motorbikes:** Sports bike enthusiast enjoying the open road
   - **🛫 Aviation:** Plane spotting and systematic failure documentaries
-  - **🍽️ Culinary:** Cooking and baking
+  - **🍽️ Culinary:** Cooking, baking, and optimising recipes
 
 # Key Projects
 
@@ -61,7 +65,7 @@
       Engineered an end-to-end loan default prediction pipeline, querying complex hierarchical relational databases with SQL to capture credit behaviour signals. Filtered uninformative variables using random bar (probe feature) selection and used SHAP for model explainability.
     </td>
     <td align="left">
-      DuckDB, SQL, LightGBM, MLP NNs, SHAP
+      DuckDB, SQL, LightGBM, SHAP
     </td>
   </tr>
   <tr>
