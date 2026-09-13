@@ -10,10 +10,6 @@
   <img src="assets/animated-waving-hand.svg" alt="Animated Waving Hand" width="50" height="50" style="vertical-align: middle;">
 </h1>
 
-<style>
-  p, li, td, th {font-size: 16px; line-height: 1.6}
-</style>
-
 # About Me
 - **Current Role:** Data Scientist at the National Physical Laboratory's (NPL) Informatics Group
 
@@ -108,10 +104,8 @@
 
 # Tech Stack and Tools
 
-<table style="margin-top: -25px; margin-bottom: 25px">
-<!-- Each table has a maximum of 8 items (hence 12.5% column width). Adjust colspan to match number of items. -->
-
 <!-- Languages and Databases -->
+<table>
   <tr>
     <th colspan="3" align="left">
       <h3>Languages and Databases</h3>
@@ -131,8 +125,10 @@
       <br><strong>DuckDB</strong>
     </td>
   </tr>
+</table>  
 
 <!-- Data Science and Visualisation -->
+<table>
   <tr>
     <th colspan="3" align="left">
       <h3>📊 Data Science and Visualisation</h3>
@@ -152,9 +148,11 @@
       <br><strong>Matplotlib</strong>
     </td>
   </tr>
+</table>
 
 
   <!-- Machine and Deep Learning -->
+<table>
   <tr>
     <th colspan="4" align="left">
       <h3>🧠 Machine and Deep Learning</h3>
@@ -178,9 +176,11 @@
       <br><strong>Hugging Face</strong>
     </td>
   </tr>
+</table>
 
 
 <!-- Cloud and Development Environments -->
+<table>
   <tr>
     <th colspan="8" align="left">
       <h3>☁️ Cloud & Development Tools</h3>
@@ -247,9 +247,11 @@
     </td>
     <td width="12.5%"></td>
     <td width="12.5%"></td>
-  </tr>  
+  </tr>
+</table> 
 
 <!-- Operating Systems -->
+<table>
   <tr>
     <th colspan="2" align="left">
       <h3>🖥️ Operating Systems</h3>
