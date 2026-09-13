@@ -207,12 +207,12 @@
       <img src="assets/icons/vscode-original.svg"  width="50" alt="VS Code" />
       <br><strong>VS Code</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="150" >
       <img src="assets/icons/anaconda-original.svg"  width="50" alt="Anaconda" />
       <br><strong>Anaconda</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="150" >
       <img src="assets/icons/spyder-original.svg"  width="50" alt="Spyder" />
       <br><strong>Spyder</strong>
@@ -229,6 +229,8 @@
       <img src="assets/icons/sourcetree.svg"  width="50" alt="SourceTree" />
       <br><strong>SourceTree</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="150" >
       <img src="assets/icons/googlecolab-original.svg"  width="50" alt="Google Colab" />
       <br><strong>Google Colab</strong>
@@ -237,8 +239,6 @@
       <img src="assets/icons/networkx-original.svg"  width="50" alt="NetworkX" />
       <br><strong>NetworkX</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="150" >
       <img src="assets/icons/protege.png"  width="50" alt="Protégé" />
       <br><strong>Protégé</strong>
