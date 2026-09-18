@@ -40,28 +40,28 @@
       <h3>Tech Stack</h3>
     </th>
   </tr>
-  <tr>
+    <tr>
     <td align="left">
-      <strong>📰 LLMs and NLP</strong>
+      <strong>🏦 Explainable Predictive Risk Modelling</strong>
     </td>
     <td align="left">
-      <strong>Bank of England IFRS9 ECL Forecasting</strong> <em>[In Progress]</em><br>
-      Bank of England collaboration parsing Basel Pillar 3 PDFs via LLMs to derive an anxiety index with FinBERT. Integrated with macro drivers (Base Rate, CPI, FTSE 100) in a multivariate time series pipeline to forecast IFRS 9 Expected Credit Loss.
+      <a href="https://github.com/harveywhelan/credit-risk-prediction-lightgbm" target="_blank" rel="noopener noreferrer" title="Click to go to the GitHub Repo for this project" aria-label="Clickable link for the GitHub repo."><strong>Predictive Customer Credit Risk Modelling</strong></a><br>
+      Engineered an end-to-end loan default prediction pipeline on highly imbalanced data, querying complex hierarchical relational databases with SQL to capture credit behaviour signals. Filtered uninformative variables using random bar (probe feature) selection and used SHAP for model explainability with omission of protected attributes.
     </td>
     <td align="left">
-      LLMs, structured evidence stores, FinBERT, XGBoost, Vector Autoregression, SHAP
+      DuckDB, SQL, LightGBM, SHAP, AWS (EC2, S3), Apache Arrow, Optuna
     </td>
   </tr>
   <tr>
     <td align="left">
-      <strong>🏦 Customer Churn Modelling</strong>
+      <strong>📰 NLP Risk Forecasting</strong>
     </td>
     <td align="left">
-      <strong>Predictive Customer Credit Risk Modelling</strong><br>
-      Engineered an end-to-end loan default prediction pipeline, querying complex hierarchical relational databases with SQL to capture credit behaviour signals. Filtered uninformative variables using random bar (probe feature) selection and used SHAP for model explainability.
+      <a href="https://github.com/harveywhelan/multivariate-ecl-sentiment-forecasting" target="_blank" rel="noopener noreferrer" title="Click to go to the GitHub Repo for this project" aria-label="Clickable link for the GitHub repo."><strong>Bank of England IFRS9 ECL Forecasting</strong></a> <em>[In Progress]</em><br>
+      Bank of England collaboration parsing Basel Pillar 3 PDFs via LLMs to derive an anxiety index with FinBERT. Integrated with macro drivers (Base Rate, CPI, FTSE 100) in a multivariate time series pipeline to forecast IFRS 9 Expected Credit Loss with XGBoost and Vector Autoregression (VAR) models.
     </td>
     <td align="left">
-      DuckDB, SQL, LightGBM, SHAP
+      LLMs, structured evidence stores, FinBERT, XGBoost, Vector Autoregression, SHAP
     </td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td align="left">
-      <strong>🚨 Risk & Rare Event Detection</strong>
+      <strong>🚨 Anomaly Detection</strong>
     </td>
     <td align="left">
       <a href="https://github.com/harveywhelan/maritime-anomaly-detection" target="_blank" rel="noopener noreferrer" title="Click to go to the GitHub Repo for this project" aria-label="Clickable link for the GitHub repo."><strong>Maritime Anomaly Detection</strong></a><br>
