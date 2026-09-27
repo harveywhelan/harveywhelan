@@ -61,7 +61,7 @@
       Bank of England collaboration parsing Basel Pillar 3 PDFs via LLMs to derive an anxiety index with FinBERT. Integrated with macro drivers (Base Rate, CPI, FTSE 100) in a multivariate time series pipeline to forecast IFRS 9 Expected Credit Loss with XGBoost and Vector Autoregression (VAR) models.
     </td>
     <td align="left">
-      LLMs, structured evidence stores, FinBERT, XGBoost, Vector Autoregression, SHAP
+      LLMs, Pydantic, Instructor, structured evidence stores, FinBERT, XGBoost, Vector Autoregression, SHAP
     </td>
   </tr>
   <tr>
@@ -268,6 +268,17 @@
     </td>
   </tr>
 </table>
+
+## Additional Technical Work
+
+- **[Customer Experience Optimisation: NLP and Topic Modelling for Gym Reviews](https://github.com/harveywhelan/gym-customer-review-nlp-topic-modelling)**
+  - Leveraging NLP to analyse Google and TrustPilot reviews from an international gym operator with 500+ sites. Combines BERTopic, LDA, BERT emotion classification, and a quantised local LLM (phi-4-mini) to extract actionable insights from negative feedback to improve customer experience.
+
+- **[Retention Intelligence: Predicting Student Dropout with XGBoost and Neural Networks](https://github.com/harveywhelan/student-dropout-prediction-xbg-nn)**
+  - Predicting student dropout risk for international study centres. This project leverages XGBoost and MLP Neural Networks to identify learners at risk across their educational journey at three stages: application, course engagement, and academic performance, enabling targeted intervention to protect institutional revenue.
+
+- **[A Comparative Density Functional Theory Study of Graphene and h-BN Nanoribbons](https://github.com/harveywhelan/graphene-hbn-nanoribbons-dft)**
+  - Python pipeline for parsing and analysing SIESTA DFT band-structure outputs from graphene and h-BN nanoribbon HPC simulations. Compares edge geometry and width effects on band gaps, effective mass, cohesive energy and magnetism to identify viable post-silicon transistor materials for next-generation electronics.
 
 ## Let's Connect!
 
