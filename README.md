@@ -280,6 +280,20 @@
 - **[A Comparative Density Functional Theory Study of Graphene and h-BN Nanoribbons](https://github.com/harveywhelan/graphene-hbn-nanoribbons-dft)**
   - Python pipeline for parsing and analysing SIESTA DFT band-structure outputs from graphene and h-BN nanoribbon HPC simulations. Compares edge geometry and width effects on band gaps, effective mass, cohesive energy and magnetism to identify viable post-silicon transistor materials for next-generation electronics.
 
+## Research and Technical Engagements
+
+- **Invited Talk: [Data Quality in Maritime Autonomy](https://www.bcs.org/events-calendar/2026/october/npl-data-quality-framework-towards-trustworthy-data/)** | October 2026 | BCS, The Chartered Institute for IT (NPL Data Quality Framework: Towards Trustworthy Data) | Speaker
+
+- **Publication: [Trustworthy Digitalisation: Positioning Data Quality Frameworks in the UK Energy Sector](https://doi.org/10.3997/2214-4609.202639133)** | March 2026 | EarthDoc | Author
+
+- **Publication: [Data Quality Good Practice Guide](https://doi.org/10.47120/npl.MS63)** | March 2026 | NPL Publications | Contributor
+
+- **Publication: [An integrated framework for risk assessment in digital verification and validation](https://doi.org/10.1016/j.measen.2024.101496)** | May 2025 | Measurement: Sensors | Author
+
+- **Publication: [A Comparison of Data Quality Frameworks: A Review](https://doi.org/10.3390/bdcc9040093)** | April 2025 | MDPI Big Data and Cognitive Computing | Co-Author
+
+- **Publication: [A Framework for Current and New Data Quality Dimensions: An Overview](https://doi.org/10.3390/data9120151)** | December 2024 | MDPI Data | Co-Author
+
 ## Let's Connect!
 
 <table>
